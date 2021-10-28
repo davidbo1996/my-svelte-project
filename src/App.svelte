@@ -32,9 +32,7 @@
 		}).finally(()=>{
 
 		});
-		// const json = await res.json();
-		// console.log(JSON.stringify(json))
-		
+	
 	}
 	
 </script>
